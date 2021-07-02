@@ -1,4 +1,4 @@
-- 1.init project
+- 1. init project
 npm install
 
 - 2. start app
