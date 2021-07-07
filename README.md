@@ -1,8 +1,8 @@
 - 1. init project
-npm install
+```npm install```
 
 - 2. start app
-node server.js
+```node server.js```
 
 - 3. access to homepage
 localhost:3000
